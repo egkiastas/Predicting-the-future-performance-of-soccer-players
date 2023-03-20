@@ -7,7 +7,7 @@ and deep learning models. The applied methods demonstrated significantly better
 performance compared to random and naive predictors, providing valuable insights 
 into the predictive factors of future soccer player performance.
 
-### Link: https://dspace.lib.ntua.gr/xmlui/handle/123456789/56115
+### Link: [Vangelis_Gkiastas_Master_Thesis.pdf](https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/56115/Vangelis_Gkiastas_Master_Thesis.pdf?sequence=2&isAllowed=y)
 
 ## Structure
 This repository contains the following folders and files:
@@ -27,4 +27,4 @@ To **reproduce** the analysis and modeling results, please refer to the instruct
 If you have any questions or comments about this thesis or the code, please contact me.
 
 ## License
-This code is licensed under the MIT License. See the LICENSE file for more details.
+This code is licensed under the Apache License. See the LICENSE file for more details.
